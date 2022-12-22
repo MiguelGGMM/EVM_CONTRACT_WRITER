@@ -1,5 +1,5 @@
 
-## You can use this to perform transactions against any contract of a EVM based blockchain
+## You can use this to perform transactions against any contract of an EVM based blockchain
 
 ## STEPS
 
